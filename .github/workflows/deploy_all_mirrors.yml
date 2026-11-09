@@ -18,30 +18,61 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # Mirror 1: Surge.sh
       - name: Deploy to Surge.sh
+        continue-on-error: true
         env:
           SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }}
           SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
         run: |
           npx surge . us-pharmacy.surge.sh --token ${{ secrets.SURGE_TOKEN }}
 
+      # Mirror 2: Netlify CDN via REST API
       - name: Deploy to Netlify
+        continue-on-error: true
         env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
         run: |
-          npx netlify-cli deploy --prod --dir=. --auth=${{ secrets.NETLIFY_AUTH_TOKEN }} --site=${{ secrets.NETLIFY_SITE_ID }}
+          python -c "
+          import urllib.request, zipfile, io, os
+          buf = io.BytesIO()
+          with zipfile.ZipFile(buf, 'w', zipfile.ZIP_DEFLATED) as z:
+              for root, dirs, files in os.walk('.'):
+                  if '.git' in root or '.github' in root: continue
+                  for f in files:
+                      p = os.path.join(root, f)
+                      arcname = os.path.relpath(p, '.')
+                      z.write(p, arcname)
+          req = urllib.request.Request(
+              f'https://api.netlify.com/api/v1/sites/${{ secrets.NETLIFY_SITE_ID }}/deploys',
+              data=buf.getvalue(),
+              headers={'Authorization': f'Bearer ${{ secrets.NETLIFY_AUTH_TOKEN }}', 'Content-Type': 'application/zip'},
+              method='POST'
+          )
+          with urllib.request.urlopen(req) as resp:
+              print('Netlify deploy:', resp.status)
+          "
 
+      # Mirror 3: Cloudflare Pages
       - name: Deploy to Cloudflare Pages
-        uses: cloudflare/wrangler-action@v3
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy . --project-name=us-pharmacy --branch=main --commit-dirty=true
+        continue-on-error: true
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          npx wrangler pages deploy . --project-name=us-pharmacy --branch=main --commit-dirty=true
 
+      # Mirror 4: Trigger Render Deploy Hook
       - name: Trigger Render Deploy
+        continue-on-error: true
         env:
           RENDER_API_KEY: ${{ secrets.RENDER_API_KEY }}
           RENDER_SERVICE_ID: ${{ secrets.RENDER_SERVICE_ID }}
@@ -50,7 +81,9 @@ jobs:
             -H "Authorization: Bearer ${{ secrets.RENDER_API_KEY }}" \
             -H "Accept: application/json"
 
+      # Mirror 5: Adapt subpaths and deploy to GitHub Pages (gh-pages)
       - name: Prepare and Deploy to GitHub Pages
+        continue-on-error: true
         run: |
           node -e "
           const fs = require('fs');
@@ -98,6 +131,7 @@ jobs:
           keep_files: false
           exclude_assets: '.github'
 
+      # Final Verification: Health check all 5 mirrors
       - name: Health Check All 5 Mirrors
         run: |
           node -e "
@@ -112,9 +146,9 @@ jobs:
             for (const u of urls) {
               try {
                 const res = await fetch(u);
-                console.log(res.status, u);
+                console.log(res.status === 200 ? '✅ 200' : '⚠️ ' + res.status, u);
               } catch (e) {
-                console.log('ERR', u, e.message);
+                console.log('❌ ERR', u, e.message);
               }
             }
           }

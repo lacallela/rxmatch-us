@@ -1,6 +1,6 @@
 # RxMatch US — Comprehensive Medication Knowledge Base
 > Complete clinical, pricing, and generic substitution data for US healthcare consumers and AI assistants.
-> URL: https://us-pharmacy.vercel.app
+> URL: https://lacallela.github.io/us-pharmacy
 
 ## Universal Prescription Coupon
 - BIN: 015995
@@ -11,7 +11,7 @@
 ---
 
 ### Compounded Semaglutide (Telehealth) (Semaglutide + B12 (Cyanocobalamin))
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/compounded-semaglutide
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/compounded-semaglutide
 - **Drug Classification**: Telehealth (Weight Loss & GLP-1)
 - **Manufacturer**: FDA-Regulated 503A/503B Compounder
 - **Standard Dosage**: Monthly Supply (Tailored Dose) (Subcutaneous Injectable Vial)
@@ -26,7 +26,7 @@
 ---
 
 ### Ozempic (Brand Pen) (Semaglutide Injection)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/ozempic
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/ozempic
 - **Drug Classification**: Rx (Weight Loss & GLP-1)
 - **Manufacturer**: Novo Nordisk
 - **Standard Dosage**: 2mg/3mL (0.5mg or 1mg weekly dose) (Prefilled Subcutaneous Pen)
@@ -41,7 +41,7 @@
 ---
 
 ### Sildenafil (Generic Viagra) (Sildenafil Citrate)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/sildenafil
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/sildenafil
 - **Drug Classification**: Rx (Men's Health)
 - **Manufacturer**: Greenstone / Teva
 - **Standard Dosage**: 50mg, 30 tablets (White Oral Tablet)
@@ -56,7 +56,7 @@
 ---
 
 ### Atorvastatin (Generic Lipitor) (Atorvastatin Calcium)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/atorvastatin
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/atorvastatin
 - **Drug Classification**: Rx (Cholesterol & Heart)
 - **Manufacturer**: Teva / Sandoz Generics
 - **Standard Dosage**: 20mg, 30 tablets (Oral Tablet)
@@ -71,7 +71,7 @@
 ---
 
 ### Viagra (Sildenafil Citrate)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/viagra
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/viagra
 - **Drug Classification**: Rx (Erectile Dysfunction)
 - **Manufacturer**: Pfizer / Generic Labs
 - **Standard Dosage**: 100mg, 30 tablets (Film-coated Tablets)
@@ -86,7 +86,7 @@
 ---
 
 ### Cetirizine HCl (Generic Zyrtec) (Cetirizine Hydrochloride)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/cetirizine-generic
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/cetirizine-generic
 - **Drug Classification**: OTC (Allergy & Sinus)
 - **Manufacturer**: Major Pharmaceuticals / Kirkland
 - **Standard Dosage**: 10mg, 100 tablets (Value Pack) (Oral Tablet)
@@ -101,7 +101,7 @@
 ---
 
 ### Zoloft (Sertraline HCl)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/zoloft
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/zoloft
 - **Drug Classification**: Rx (Mental Health & Mood)
 - **Manufacturer**: Pfizer / Generic Labs
 - **Standard Dosage**: 50mg, 30 tablets (Scored Tablets)
@@ -116,7 +116,7 @@
 ---
 
 ### Ibuprofen (Generic Advil / Motrin) (Ibuprofen)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/ibuprofen-generic
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/ibuprofen-generic
 - **Drug Classification**: OTC (Pain & Inflammation)
 - **Manufacturer**: Major Pharmaceuticals
 - **Standard Dosage**: 200mg, 100 tablets (Brown Coated Tablet)
@@ -131,7 +131,7 @@
 ---
 
 ### Zyrtec (Brand 24-Hr) (Cetirizine Hydrochloride)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/zyrtec
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/zyrtec
 - **Drug Classification**: OTC (Allergy & Sinus)
 - **Manufacturer**: Johnson & Johnson Kenvue
 - **Standard Dosage**: 10mg, 30 tablets (Oral Tablet)
@@ -146,7 +146,7 @@
 ---
 
 ### Lipitor (Atorvastatin Calcium)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/lipitor
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/lipitor
 - **Drug Classification**: Rx (Cholesterol & Heart)
 - **Manufacturer**: Pfizer / Generic Labs
 - **Standard Dosage**: 20mg, 30 tablets (Film-coated Tablets)
@@ -161,7 +161,7 @@
 ---
 
 ### Synthroid (Levothyroxine Sodium)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/synthroid
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/synthroid
 - **Drug Classification**: Rx (Thyroid & Hormone)
 - **Manufacturer**: AbbVie / Generic Labs
 - **Standard Dosage**: 100mcg (0.1mg), 30 tablets (Tablets)
@@ -176,7 +176,7 @@
 ---
 
 ### Femara (Letrozole)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/femara
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/femara
 - **Drug Classification**: Rx (Women's Health)
 - **Manufacturer**: Novartis / Generic Labs
 - **Standard Dosage**: 2.5mg, 30 tablets (Yellow Film-coated Tablets)
@@ -191,7 +191,7 @@
 ---
 
 ### Zanaflex (Tizanidine HCl)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/zanaflex
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/zanaflex
 - **Drug Classification**: Rx (Muscle Relaxant)
 - **Manufacturer**: Acorda / Generic Labs
 - **Standard Dosage**: 4mg, 30 tablets (Short-acting Tablets)
@@ -206,7 +206,7 @@
 ---
 
 ### Zantac (Famotidine)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/zantac
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/zantac
 - **Drug Classification**: OTC (Gastrointestinal)
 - **Manufacturer**: Sanofi / Generic Labs
 - **Standard Dosage**: 20mg, 30 tablets (Tablets)
@@ -221,7 +221,7 @@
 ---
 
 ### Topamax (Topiramate)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/topamax
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/topamax
 - **Drug Classification**: Rx (Neurology & Migraine)
 - **Manufacturer**: Janssen / Generic Labs
 - **Standard Dosage**: 50mg, 30 tablets (Coated Tablets)
@@ -236,7 +236,7 @@
 ---
 
 ### Amoxicillin (Amoxicillin)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/amoxicillin-500mg-30-capsules
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/amoxicillin-500mg-30-capsules
 - **Drug Classification**: Rx (Antibiotics)
 - **Manufacturer**: Teva Generics
 - **Standard Dosage**: 500mg, 30 capsules (Capsule)
@@ -251,7 +251,7 @@
 ---
 
 ### Ventolin HFA (Albuterol Sulfate)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/ventolin-hfa-90mcg-inhalation-aerosol
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/ventolin-hfa-90mcg-inhalation-aerosol
 - **Drug Classification**: Rx (Respiratory & Asthma)
 - **Manufacturer**: GSK / Teva
 - **Standard Dosage**: 90mcg Inhalation Aerosol (Metered Dose Inhaler)
@@ -266,7 +266,7 @@
 ---
 
 ### Lexapro (Escitalopram Oxalate)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/lexapro-10mg-30-tablets
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/lexapro-10mg-30-tablets
 - **Drug Classification**: Rx (Mental Health & Mood)
 - **Manufacturer**: Allergan / Aurobindo
 - **Standard Dosage**: 10mg, 30 tablets (Oral Tablet)
@@ -281,7 +281,7 @@
 ---
 
 ### Cialis (Tadalafil)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/cialis
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/cialis
 - **Drug Classification**: Rx (Erectile Dysfunction)
 - **Manufacturer**: Eli Lilly / Generic Labs
 - **Standard Dosage**: 20mg, 30 tablets (Almond-shaped Tablets)
@@ -296,7 +296,7 @@
 ---
 
 ### Levitra (Vardenafil HCl)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/levitra
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/levitra
 - **Drug Classification**: Rx (Erectile Dysfunction)
 - **Manufacturer**: Bayer / Generic Labs
 - **Standard Dosage**: 20mg, 30 tablets (Round Orange Tablets)
@@ -311,7 +311,7 @@
 ---
 
 ### Kamagra (Sildenafil Citrate)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/kamagra
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/kamagra
 - **Drug Classification**: Rx (Erectile Dysfunction)
 - **Manufacturer**: Ajanta Pharma
 - **Standard Dosage**: 100mg, 30 tablets (Tablets)
@@ -326,7 +326,7 @@
 ---
 
 ### Cenforce (Sildenafil Citrate)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/cenforce
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/cenforce
 - **Drug Classification**: Rx (Erectile Dysfunction)
 - **Manufacturer**: Centurion Laboratories
 - **Standard Dosage**: 100mg, 30 tablets (Blue Film-coated Tablets)
@@ -341,7 +341,7 @@
 ---
 
 ### Vidalista (Tadalafil)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/vidalista
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/vidalista
 - **Drug Classification**: Rx (Erectile Dysfunction)
 - **Manufacturer**: Centurion Laboratories
 - **Standard Dosage**: 20mg, 30 tablets (Yellow Oval Tablets)
@@ -356,7 +356,7 @@
 ---
 
 ### Fildena (Sildenafil Citrate)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/fildena
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/fildena
 - **Drug Classification**: Rx (Erectile Dysfunction)
 - **Manufacturer**: Fortune Healthcare
 - **Standard Dosage**: 100mg, 30 tablets (Purple Triangle Tablets)
@@ -371,7 +371,7 @@
 ---
 
 ### Tadacip (Tadalafil)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/tadacip
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/tadacip
 - **Drug Classification**: Rx (Erectile Dysfunction)
 - **Manufacturer**: Cipla Ltd
 - **Standard Dosage**: 20mg, 30 tablets (Tablets)
@@ -386,7 +386,7 @@
 ---
 
 ### Dapoxetine (Dapoxetine HCl)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/dapoxetine
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/dapoxetine
 - **Drug Classification**: Rx (Erectile Dysfunction)
 - **Manufacturer**: Menarini / Generic Labs
 - **Standard Dosage**: 60mg, 30 tablets (Tablets)
@@ -401,7 +401,7 @@
 ---
 
 ### Super P-Force (Sildenafil 100mg + Dapoxetine 60mg)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/super-p-force
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/super-p-force
 - **Drug Classification**: Rx (Erectile Dysfunction)
 - **Manufacturer**: Sunrise Remedies
 - **Standard Dosage**: 160mg combo, 30 tablets (Tablets)
@@ -416,7 +416,7 @@
 ---
 
 ### Propecia (Finasteride)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/propecia
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/propecia
 - **Drug Classification**: Rx (Hair Loss)
 - **Manufacturer**: Merck / Generic Labs
 - **Standard Dosage**: 1mg, 30 tablets (Octagonal Tablets)
@@ -431,7 +431,7 @@
 ---
 
 ### Proscar (Finasteride)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/proscar
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/proscar
 - **Drug Classification**: Rx (Men's Health)
 - **Manufacturer**: Merck / Generic Labs
 - **Standard Dosage**: 5mg, 30 tablets (Tablets)
@@ -446,7 +446,7 @@
 ---
 
 ### Flomax (Tamsulosin HCl)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/flomax
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/flomax
 - **Drug Classification**: Rx (Men's Health)
 - **Manufacturer**: Boehringer Ingelheim
 - **Standard Dosage**: 0.4mg, 30 capsules (Capsules)
@@ -461,7 +461,7 @@
 ---
 
 ### Avodart (Dutasteride)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/avodart
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/avodart
 - **Drug Classification**: Rx (Men's Health)
 - **Manufacturer**: GlaxoSmithKline
 - **Standard Dosage**: 0.5mg, 30 capsules (Soft Gelatin Capsules)
@@ -476,7 +476,7 @@
 ---
 
 ### Amoxil (Amoxicillin)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/amoxil
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/amoxil
 - **Drug Classification**: Rx (Antibiotics)
 - **Manufacturer**: GlaxoSmithKline / Generic Labs
 - **Standard Dosage**: 500mg, 30 capsules (Capsules)
@@ -491,7 +491,7 @@
 ---
 
 ### Augmentin (Amoxicillin + Clavulanate Potassium)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/augmentin
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/augmentin
 - **Drug Classification**: Rx (Antibiotics)
 - **Manufacturer**: GlaxoSmithKline
 - **Standard Dosage**: 875/125mg, 20 tablets (Film-coated Tablets)
@@ -506,7 +506,7 @@
 ---
 
 ### Zithromax (Azithromycin (Z-Pak))
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/zithromax
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/zithromax
 - **Drug Classification**: Rx (Antibiotics)
 - **Manufacturer**: Pfizer / Generic Labs
 - **Standard Dosage**: 250mg, 6 tablets (Z-Pak) (Film-coated Tablets)
@@ -521,7 +521,7 @@
 ---
 
 ### Cipro (Ciprofloxacin HCl)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/cipro
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/cipro
 - **Drug Classification**: Rx (Antibiotics)
 - **Manufacturer**: Bayer / Generic Labs
 - **Standard Dosage**: 500mg, 20 tablets (Tablets)
@@ -536,7 +536,7 @@
 ---
 
 ### Doxycycline (Doxycycline Hyclate)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/doxycycline
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/doxycycline
 - **Drug Classification**: Rx (Antibiotics)
 - **Manufacturer**: Pfizer / Generic Labs
 - **Standard Dosage**: 100mg, 30 capsules (Capsules)
@@ -551,7 +551,7 @@
 ---
 
 ### Flagyl (Metronidazole)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/flagyl
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/flagyl
 - **Drug Classification**: Rx (Antibiotics)
 - **Manufacturer**: Pfizer / Generic Labs
 - **Standard Dosage**: 500mg, 30 tablets (Tablets)
@@ -566,7 +566,7 @@
 ---
 
 ### Keflex (Cephalexin)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/keflex
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/keflex
 - **Drug Classification**: Rx (Antibiotics)
 - **Manufacturer**: Prasco / Generic Labs
 - **Standard Dosage**: 500mg, 30 capsules (Capsules)
@@ -581,7 +581,7 @@
 ---
 
 ### Bactrim (Sulfamethoxazole + Trimethoprim (SMZ-TMP DS))
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/bactrim
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/bactrim
 - **Drug Classification**: Rx (Antibiotics)
 - **Manufacturer**: Roche / Generic Labs
 - **Standard Dosage**: 800/160mg, 20 tablets (Double Strength Tablets)
@@ -596,7 +596,7 @@
 ---
 
 ### Prednisone (Prednisone)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/prednisone
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/prednisone
 - **Drug Classification**: Rx (Allergies & Inflammation)
 - **Manufacturer**: Pfizer / Generic Labs
 - **Standard Dosage**: 20mg, 30 tablets (Scored Tablets)
@@ -611,7 +611,7 @@
 ---
 
 ### Prednisolone (Prednisolone)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/prednisolone
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/prednisolone
 - **Drug Classification**: Rx (Allergies & Inflammation)
 - **Manufacturer**: Generic Labs
 - **Standard Dosage**: 20mg, 30 tablets (Soluble Tablets)
@@ -626,7 +626,7 @@
 ---
 
 ### Allegra (Fexofenadine HCl)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/allegra
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/allegra
 - **Drug Classification**: OTC (Allergies)
 - **Manufacturer**: Sanofi / Generic Labs
 - **Standard Dosage**: 180mg, 30 tablets (24-Hour) (Coated Tablets)
@@ -641,7 +641,7 @@
 ---
 
 ### Singulair (Montelukast Sodium)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/singulair
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/singulair
 - **Drug Classification**: Rx (Asthma & Allergies)
 - **Manufacturer**: Merck / Generic Labs
 - **Standard Dosage**: 10mg, 30 tablets (Film-coated Tablets)
@@ -656,7 +656,7 @@
 ---
 
 ### Ventolin (Albuterol Sulfate (Salbutamol))
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/ventolin
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/ventolin
 - **Drug Classification**: Rx (Asthma & Respiratory)
 - **Manufacturer**: GlaxoSmithKline
 - **Standard Dosage**: 90mcg/actuation, 200 inhalations (Metered Dose Inhaler)
@@ -671,7 +671,7 @@
 ---
 
 ### Lexapro (Escitalopram Oxalate)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/lexapro
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/lexapro
 - **Drug Classification**: Rx (Mental Health & Mood)
 - **Manufacturer**: Allergan / Generic Labs
 - **Standard Dosage**: 10mg, 30 tablets (Film-coated Tablets)
@@ -686,7 +686,7 @@
 ---
 
 ### Prozac (Fluoxetine HCl)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/prozac
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/prozac
 - **Drug Classification**: Rx (Mental Health & Mood)
 - **Manufacturer**: Eli Lilly / Generic Labs
 - **Standard Dosage**: 20mg, 30 capsules (Capsules)
@@ -701,7 +701,7 @@
 ---
 
 ### Wellbutrin (Bupropion HCl (XL))
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/wellbutrin
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/wellbutrin
 - **Drug Classification**: Rx (Mental Health & Mood)
 - **Manufacturer**: GlaxoSmithKline / Generic Labs
 - **Standard Dosage**: 150mg, 30 extended-release tablets (Extended-Release Tablets)
@@ -716,7 +716,7 @@
 ---
 
 ### Buspar (Buspirone HCl)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/buspar
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/buspar
 - **Drug Classification**: Rx (Anxiety)
 - **Manufacturer**: Bristol-Myers Squibb
 - **Standard Dosage**: 10mg, 30 tablets (Multi-scored Tablets)
@@ -731,7 +731,7 @@
 ---
 
 ### Cymbalta (Duloxetine HCl)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/cymbalta
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/cymbalta
 - **Drug Classification**: Rx (Mental Health & Pain)
 - **Manufacturer**: Eli Lilly / Generic Labs
 - **Standard Dosage**: 30mg, 30 delayed-release capsules (Delayed-Release Capsules)
@@ -746,7 +746,7 @@
 ---
 
 ### Crestor (Rosuvastatin Calcium)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/crestor
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/crestor
 - **Drug Classification**: Rx (Cholesterol & Heart)
 - **Manufacturer**: AstraZeneca / Generic Labs
 - **Standard Dosage**: 10mg, 30 tablets (Film-coated Tablets)
@@ -761,7 +761,7 @@
 ---
 
 ### Lasix (Furosemide)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/lasix
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/lasix
 - **Drug Classification**: Rx (Blood Pressure & Heart)
 - **Manufacturer**: Sanofi / Generic Labs
 - **Standard Dosage**: 40mg, 30 tablets (Tablets)
@@ -776,7 +776,7 @@
 ---
 
 ### Propranolol (Propranolol HCl)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/propranolol
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/propranolol
 - **Drug Classification**: Rx (Heart & Blood Pressure)
 - **Manufacturer**: Wyeth / Generic Labs
 - **Standard Dosage**: 40mg, 30 tablets (Tablets)
@@ -791,7 +791,7 @@
 ---
 
 ### Lisinopril (Lisinopril)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/lisinopril
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/lisinopril
 - **Drug Classification**: Rx (Blood Pressure & Heart)
 - **Manufacturer**: AstraZeneca / Generic Labs
 - **Standard Dosage**: 10mg, 30 tablets (Tablets)
@@ -806,7 +806,7 @@
 ---
 
 ### Norvasc (Amlodipine Besylate)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/norvasc
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/norvasc
 - **Drug Classification**: Rx (Blood Pressure & Heart)
 - **Manufacturer**: Pfizer / Generic Labs
 - **Standard Dosage**: 5mg, 30 tablets (Octagonal Tablets)
@@ -821,7 +821,7 @@
 ---
 
 ### Plavix (Clopidogrel Bisulfate)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/plavix
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/plavix
 - **Drug Classification**: Rx (Heart & Blood)
 - **Manufacturer**: Sanofi / Bristol-Myers Squibb
 - **Standard Dosage**: 75mg, 30 tablets (Pink Coated Tablets)
@@ -836,7 +836,7 @@
 ---
 
 ### Metformin (Metformin HCl)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/metformin
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/metformin
 - **Drug Classification**: Rx (Diabetes)
 - **Manufacturer**: Bristol-Myers Squibb / Generic Labs
 - **Standard Dosage**: 500mg, 60 tablets (Tablets)
@@ -851,7 +851,7 @@
 ---
 
 ### Glucophage (Metformin HCl (Extended-Release))
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/glucophage
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/glucophage
 - **Drug Classification**: Rx (Diabetes)
 - **Manufacturer**: Merck Santé
 - **Standard Dosage**: 850mg, 60 tablets (Extended Release Tablets)
@@ -866,7 +866,7 @@
 ---
 
 ### Actos (Pioglitazone HCl)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/actos
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/actos
 - **Drug Classification**: Rx (Diabetes)
 - **Manufacturer**: Takeda / Generic Labs
 - **Standard Dosage**: 30mg, 30 tablets (Tablets)
@@ -881,7 +881,7 @@
 ---
 
 ### Amaryl (Glimepiride)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/amaryl
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/amaryl
 - **Drug Classification**: Rx (Diabetes)
 - **Manufacturer**: Sanofi / Generic Labs
 - **Standard Dosage**: 2mg, 30 tablets (Scored Tablets)
@@ -896,7 +896,7 @@
 ---
 
 ### Xenical (Orlistat)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/xenical
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/xenical
 - **Drug Classification**: Rx (Weight Loss)
 - **Manufacturer**: Roche / Generic Labs
 - **Standard Dosage**: 120mg, 60 capsules (Turquoise Capsules)
@@ -911,7 +911,7 @@
 ---
 
 ### Alli (Orlistat)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/alli
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/alli
 - **Drug Classification**: OTC (Weight Loss)
 - **Manufacturer**: GlaxoSmithKline
 - **Standard Dosage**: 60mg, 60 capsules (Capsules)
@@ -926,7 +926,7 @@
 ---
 
 ### Cytotec (Misoprostol)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/cytotec
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/cytotec
 - **Drug Classification**: Rx (Gastrointestinal)
 - **Manufacturer**: Pfizer / Generic Labs
 - **Standard Dosage**: 200mcg, 30 tablets (Hexagonal Tablets)
@@ -941,7 +941,7 @@
 ---
 
 ### Nexium (Esomeprazole Magnesium)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/nexium
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/nexium
 - **Drug Classification**: Rx (Gastrointestinal)
 - **Manufacturer**: AstraZeneca / Generic Labs
 - **Standard Dosage**: 40mg, 30 capsules (Delayed-Release Capsules)
@@ -956,7 +956,7 @@
 ---
 
 ### Prilosec (Omeprazole)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/prilosec
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/prilosec
 - **Drug Classification**: OTC (Gastrointestinal)
 - **Manufacturer**: Procter & Gamble / Generic Labs
 - **Standard Dosage**: 20mg, 30 capsules (Capsules)
@@ -971,7 +971,7 @@
 ---
 
 ### Clomid (Clomiphene Citrate)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/clomid
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/clomid
 - **Drug Classification**: Rx (Women's Health)
 - **Manufacturer**: Sanofi / Generic Labs
 - **Standard Dosage**: 50mg, 30 tablets (Tablets)
@@ -986,7 +986,7 @@
 ---
 
 ### Nolvadex (Tamoxifen Citrate)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/nolvadex
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/nolvadex
 - **Drug Classification**: Rx (Women's Health)
 - **Manufacturer**: AstraZeneca / Generic Labs
 - **Standard Dosage**: 20mg, 30 tablets (Tablets)
@@ -1001,7 +1001,7 @@
 ---
 
 ### Female Viagra (Sildenafil Citrate (Female Formulation))
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/female-viagra
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/female-viagra
 - **Drug Classification**: Rx (Women's Health)
 - **Manufacturer**: Generic Labs
 - **Standard Dosage**: 100mg, 30 tablets (Pink Tablets)
@@ -1016,7 +1016,7 @@
 ---
 
 ### Diflucan (Fluconazole)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/diflucan
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/diflucan
 - **Drug Classification**: Rx (Anti Fungal)
 - **Manufacturer**: Pfizer / Generic Labs
 - **Standard Dosage**: 150mg, 4 tablets (Tablets)
@@ -1031,7 +1031,7 @@
 ---
 
 ### Celebrex (Celecoxib)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/celebrex
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/celebrex
 - **Drug Classification**: Rx (Pain Relief & Arthritis)
 - **Manufacturer**: Pfizer / Generic Labs
 - **Standard Dosage**: 200mg, 30 capsules (Capsules)
@@ -1046,7 +1046,7 @@
 ---
 
 ### Voltaren (Diclofenac Sodium)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/voltaren
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/voltaren
 - **Drug Classification**: Rx (Pain Relief & Arthritis)
 - **Manufacturer**: Novartis / Generic Labs
 - **Standard Dosage**: 50mg, 30 enteric-coated tablets (Enteric-coated Tablets)
@@ -1061,7 +1061,7 @@
 ---
 
 ### Colchicine (Colchicine)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/colchicine
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/colchicine
 - **Drug Classification**: Rx (Pain Relief & Gout)
 - **Manufacturer**: Takeda / Generic Labs
 - **Standard Dosage**: 0.6mg, 30 tablets (Tablets)
@@ -1076,7 +1076,7 @@
 ---
 
 ### Baclofen (Baclofen)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/baclofen
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/baclofen
 - **Drug Classification**: Rx (Muscle Relaxant)
 - **Manufacturer**: Generic Labs
 - **Standard Dosage**: 10mg, 30 tablets (Scored Tablets)
@@ -1091,7 +1091,7 @@
 ---
 
 ### Imitrex (Sumatriptan Succinate)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/imitrex
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/imitrex
 - **Drug Classification**: Rx (Migraine & Pain)
 - **Manufacturer**: GlaxoSmithKline / Generic Labs
 - **Standard Dosage**: 50mg, 9 tablets (Film-coated Tablets)
@@ -1106,7 +1106,7 @@
 ---
 
 ### Valtrex (Valacyclovir HCl)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/valtrex
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/valtrex
 - **Drug Classification**: Rx (Anti Viral)
 - **Manufacturer**: GlaxoSmithKline / Generic Labs
 - **Standard Dosage**: 500mg, 30 caplets (Blue Caplets)
@@ -1121,7 +1121,7 @@
 ---
 
 ### Zovirax (Acyclovir)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/zovirax
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/zovirax
 - **Drug Classification**: Rx (Anti Viral)
 - **Manufacturer**: GlaxoSmithKline / Generic Labs
 - **Standard Dosage**: 400mg, 30 tablets (Tablets)
@@ -1136,7 +1136,7 @@
 ---
 
 ### Accutane (Isotretinoin)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/accutane
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/accutane
 - **Drug Classification**: Rx (Skincare)
 - **Manufacturer**: Roche / Generic Labs
 - **Standard Dosage**: 20mg, 30 soft capsules (Soft Capsules)
@@ -1151,7 +1151,7 @@
 ---
 
 ### Retin-A (Tretinoin)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/retin-a
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/retin-a
 - **Drug Classification**: Rx (Skincare)
 - **Manufacturer**: Bausch Health / Generic Labs
 - **Standard Dosage**: 0.05% topical cream, 20g tube (Topical Cream)
@@ -1166,7 +1166,7 @@
 ---
 
 ### Provigil (Modafinil)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/provigil
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/provigil
 - **Drug Classification**: Rx (Sleep & Wakefulness)
 - **Manufacturer**: Cephalon / Teva
 - **Standard Dosage**: 200mg, 30 tablets (White Capsule-shaped Tablets)
@@ -1181,7 +1181,7 @@
 ---
 
 ### Celexa (Citalopram Hydrobromide)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/celexa
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/celexa
 - **Drug Classification**: Rx (Mental Health & Mood)
 - **Manufacturer**: Allergan / Generic Labs
 - **Standard Dosage**: 20mg, 30 tablets (Tablets)
@@ -1196,7 +1196,7 @@
 ---
 
 ### Paxil (Paroxetine HCl)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/paxil
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/paxil
 - **Drug Classification**: Rx (Mental Health & Mood)
 - **Manufacturer**: GlaxoSmithKline / Generic Labs
 - **Standard Dosage**: 20mg, 30 tablets (Tablets)
@@ -1211,7 +1211,7 @@
 ---
 
 ### Effexor XR (Venlafaxine HCl (Extended-Release))
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/effexor-xr
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/effexor-xr
 - **Drug Classification**: Rx (Mental Health & Mood)
 - **Manufacturer**: Wyeth / Pfizer
 - **Standard Dosage**: 75mg, 30 capsules (Extended-Release Capsules)
@@ -1226,7 +1226,7 @@
 ---
 
 ### Cozaar (Losartan Potassium)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/cozaar
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/cozaar
 - **Drug Classification**: Rx (Blood Pressure & Heart)
 - **Manufacturer**: Merck / Generic Labs
 - **Standard Dosage**: 50mg, 30 tablets (Tablets)
@@ -1241,7 +1241,7 @@
 ---
 
 ### Diovan (Valsartan)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/diovan
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/diovan
 - **Drug Classification**: Rx (Blood Pressure & Heart)
 - **Manufacturer**: Novartis / Generic Labs
 - **Standard Dosage**: 80mg, 30 tablets (Tablets)
@@ -1256,7 +1256,7 @@
 ---
 
 ### Atenolol (Atenolol)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/atenolol
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/atenolol
 - **Drug Classification**: Rx (Heart & Blood Pressure)
 - **Manufacturer**: Generic Labs
 - **Standard Dosage**: 50mg, 30 tablets (Tablets)
@@ -1271,7 +1271,7 @@
 ---
 
 ### Clarinex (Desloratadine)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/clarinex
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/clarinex
 - **Drug Classification**: Rx (Allergies)
 - **Manufacturer**: Merck / Schering-Plough
 - **Standard Dosage**: 5mg, 30 tablets (Film-coated Tablets)
@@ -1286,7 +1286,7 @@
 ---
 
 ### Flonase (Fluticasone Propionate)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/flonase
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/flonase
 - **Drug Classification**: OTC (Allergies & Sinus)
 - **Manufacturer**: GlaxoSmithKline
 - **Standard Dosage**: 50mcg/spray, 120 metered sprays (Nasal Spray Suspension)
@@ -1301,7 +1301,7 @@
 ---
 
 ### Advair Diskus (Fluticasone + Salmeterol)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/advair-diskus
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/advair-diskus
 - **Drug Classification**: Rx (Asthma & Respiratory)
 - **Manufacturer**: GlaxoSmithKline
 - **Standard Dosage**: 250/50mcg, 60 blisters (Inhalation Powder)
@@ -1316,7 +1316,7 @@
 ---
 
 ### Biaxin (Clarithromycin)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/biaxin
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/biaxin
 - **Drug Classification**: Rx (Antibiotics)
 - **Manufacturer**: Abbott / Generic Labs
 - **Standard Dosage**: 500mg, 20 tablets (Film-coated Tablets)
@@ -1331,7 +1331,7 @@
 ---
 
 ### Ceftin (Cefuroxime Axetil)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/ceftin
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/ceftin
 - **Drug Classification**: Rx (Antibiotics)
 - **Manufacturer**: GlaxoSmithKline
 - **Standard Dosage**: 500mg, 20 tablets (Tablets)
@@ -1346,7 +1346,7 @@
 ---
 
 ### Lamisil (Terbinafine HCl)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/lamisil
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/lamisil
 - **Drug Classification**: Rx (Anti Fungal)
 - **Manufacturer**: Novartis / Generic Labs
 - **Standard Dosage**: 250mg, 30 tablets (Tablets)
@@ -1361,7 +1361,7 @@
 ---
 
 ### Motrin (Ibuprofen)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/motrin
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/motrin
 - **Drug Classification**: OTC (Pain Relief)
 - **Manufacturer**: McNeil / Generic Labs
 - **Standard Dosage**: 800mg, 30 tablets (Film-coated Tablets)
@@ -1376,7 +1376,7 @@
 ---
 
 ### Aleve (Naproxen Sodium)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/aleve
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/aleve
 - **Drug Classification**: OTC (Pain Relief)
 - **Manufacturer**: Bayer / Generic Labs
 - **Standard Dosage**: 220mg, 50 caplets (Caplets)
@@ -1391,7 +1391,7 @@
 ---
 
 ### Antabuse (Disulfiram)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/antabuse
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/antabuse
 - **Drug Classification**: Rx (Other & Wellness)
 - **Manufacturer**: Teva / Generic Labs
 - **Standard Dosage**: 250mg, 30 tablets (Tablets)
@@ -1406,7 +1406,7 @@
 ---
 
 ### Aricept (Donepezil HCl)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/aricept
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/aricept
 - **Drug Classification**: Rx (Neurology & Memory)
 - **Manufacturer**: Eisai / Pfizer
 - **Standard Dosage**: 10mg, 30 film-coated tablets (Film-coated Tablets)
@@ -1421,7 +1421,7 @@
 ---
 
 ### Atarax (Hydroxyzine HCl)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/atarax
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/atarax
 - **Drug Classification**: Rx (Anxiety & Allergies)
 - **Manufacturer**: Pfizer / Generic Labs
 - **Standard Dosage**: 25mg, 30 tablets (Tablets)
@@ -1436,7 +1436,7 @@
 ---
 
 ### Rogaine (Minoxidil (5% Solution))
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/rogaine
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/rogaine
 - **Drug Classification**: OTC (Hair Loss)
 - **Manufacturer**: Johnson & Johnson
 - **Standard Dosage**: 5% topical solution, 60ml bottle (Topical Solution)
@@ -1451,7 +1451,7 @@
 ---
 
 ### Arimidex (Anastrozole)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/arimidex
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/arimidex
 - **Drug Classification**: Rx (Women's Health)
 - **Manufacturer**: AstraZeneca / Generic Labs
 - **Standard Dosage**: 1mg, 30 tablets (Tablets)
@@ -1466,7 +1466,7 @@
 ---
 
 ### Sertraline (Generic Zoloft) (Sertraline Hydrochloride)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/sertraline
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/sertraline
 - **Drug Classification**: Rx (Mental Health & Mood)
 - **Manufacturer**: Aurobindo / Lupin Pharma
 - **Standard Dosage**: 50mg, 30 tablets (Oral Tablet)
@@ -1481,7 +1481,7 @@
 ---
 
 ### Omeprazole (Generic Prilosec) (Omeprazole)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/omeprazole-generic
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/omeprazole-generic
 - **Drug Classification**: OTC (Acid Reflux & GERD)
 - **Manufacturer**: Dr. Reddy’s / Perrigo
 - **Standard Dosage**: 20mg, 42 capsules (Capsule)
@@ -1496,7 +1496,7 @@
 ---
 
 ### Prilosec OTC (Brand) (Omeprazole Delayed-Release)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/prilosec-otc
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/prilosec-otc
 - **Drug Classification**: OTC (Acid Reflux & GERD)
 - **Manufacturer**: Procter & Gamble
 - **Standard Dosage**: 20mg, 42 tablets (3x 14-day courses) (Delayed-Release Tablet)
@@ -1511,7 +1511,7 @@
 ---
 
 ### Advil Liqui-Gels (Brand) (Ibuprofen Solubilized)
-- **Page URL**: https://us-pharmacy.vercel.app/drugs/advil
+- **Page URL**: https://lacallela.github.io/us-pharmacy/drugs/advil
 - **Drug Classification**: OTC (Pain & Inflammation)
 - **Manufacturer**: Haleon US
 - **Standard Dosage**: 200mg, 80 capsules (Liquid Filled Capsule)

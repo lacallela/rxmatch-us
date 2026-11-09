@@ -1,5 +1,5 @@
 # ========================================================
-# Robots.txt for RxMatch US (https://us-pharmacy.surge.sh)
+# Robots.txt for RxMatch US (https://lacallela.github.io/us-pharmacy)
 # Optimized for Googlebot & Next-Gen AI LLM Search Engines
 # ========================================================
 
@@ -76,4 +76,4 @@ Disallow: /api/admin
 Disallow: /go/
 
 # Sitemaps & Feeds
-Sitemap: https://us-pharmacy.surge.sh/sitemap.xml
+Sitemap: https://lacallela.github.io/us-pharmacy/sitemap.xml
